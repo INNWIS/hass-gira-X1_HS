@@ -1,0 +1,12 @@
+{
+  "domain": "gira_x1",
+  "name": "Gira X1",
+  "codeowners": ["@JOUW_GITHUB_GEBRUIKERSNAAM"],
+  "config_flow": true,
+  "documentation": "https://github.com/JOUW_GITHUB_GEBRUIKERSNAAM/gira_x1",
+  "integration_type": "hub",
+  "iot_class": "local_push",
+  "issue_tracker": "https://github.com/JOUW_GITHUB_GEBRUIKERSNAAM/gira_x1/issues",
+  "requirements": ["cryptography>=41.0.0"],
+  "version": "0.1.0"
+}

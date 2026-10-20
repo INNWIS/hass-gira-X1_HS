@@ -1,0 +1,23 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Gira X1 verbinden",
+        "description": "Voer het IP-adres en de inloggegevens van je Gira X1 (of HomeServer/FacilityServer) in.",
+        "data": {
+          "host": "IP-adres of hostnaam",
+          "username": "Gebruikersnaam",
+          "password": "Wachtwoord"
+        }
+      }
+    },
+    "error": {
+      "invalid_auth": "Ongeldige gebruikersnaam of wachtwoord",
+      "cannot_connect": "Kan geen verbinding maken met de Gira X1",
+      "unknown": "Onbekende fout"
+    },
+    "abort": {
+      "already_configured": "Dit apparaat is al geconfigureerd"
+    }
+  }
+}
