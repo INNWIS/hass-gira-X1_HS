@@ -3,10 +3,10 @@
   "name": "Gira X1",
   "codeowners": ["INNWIS"],
   "config_flow": true,
-  "documentation": "https://github.com/INNWIS/gira_x1_hs",
+  "documentation": "https://github.com/INNWIS/hass-gira-X1_HS",
   "integration_type": "hub",
   "iot_class": "local_push",
-  "issue_tracker": "https://github.com/INNWIS/gira_x1_hs/issues",
+  "issue_tracker": "https://github.com/INNWIS/hass-gira-X1_HS/issues",
   "requirements": ["cryptography>=41.0.0"],
   "version": "0.1.3"
 }
